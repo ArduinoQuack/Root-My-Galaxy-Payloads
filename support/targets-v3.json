@@ -153,13 +153,13 @@
       }
     },
     {
-      "payloadId": "e2s-S926BXXUEDZDR",
-      "displayName": "Galaxy S24+ | Kernel 6.1.157",
-      "models": ["SM-S926B"],
+      "payloadId": "e2s-S926USQU5DZDR",
+      "displayName": "Galaxy S24+ | Kernel 6.1.145",
+      "models": ["SM-S926U"],
       "kernelVersions": ["6.1.157"],
       "requiresFreshP0Session": true,
       "exploit": {
-        "url": "https://raw.githubusercontent.com/BuSung-dev/Root-My-Galaxy-Payloads/main/artifacts/e2s-S926BXXUEDZDR/cve-2026-43499-app.so",
+        "url": "https://raw.githubusercontent.com/ArduinoQuack/Root-My-Galaxy-Payloads/5c617b72b4add42d705323db27a3d9dbdacf2b30/artifacts/e2q-S926USQU5DZDR/cve-2026-43499-app.so",
         "size": 104128
       },
       "kernelsu": {
