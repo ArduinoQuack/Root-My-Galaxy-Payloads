@@ -23,3 +23,5 @@ participate in matching.
 
 `targets-v2.json` remains unchanged for released 0.2.3 clients. New clients
 read only schema version 3.
+
+- SM-S926U / S926USQU5DZDR / Kernel 6.1.145 — local test artifact present under artifacts\e2q-S926USQU5DZDR
