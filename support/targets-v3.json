@@ -159,7 +159,7 @@
       "kernelVersions": ["6.1.157"],
       "requiresFreshP0Session": true,
       "exploit": {
-        "url": "https://raw.githubusercontent.com/ArduinoQuack/Root-My-Galaxy-Payloads/5c617b72b4add42d705323db27a3d9dbdacf2b30/artifacts/e2q-S926USQU5DZDR/cve-2026-43499-app.so",
+        "url": "",
         "size": 104128
       },
       "kernelsu": {
