@@ -77,13 +77,13 @@
       }
     },
     {
-      "payloadId": "e2s-S926USQU5ZDR",
+      "payloadId": "########",
       "displayName": "Galaxy S24+ | Kernel 6.1.145",
-      "models": ["SM-S926U"],
+      "models": ["########"],
       "kernelVersions": ["6.1.145"],
       "requiresFreshP0Session": true,
       "exploit": {
-        "url": "https://raw.githubusercontent.com/ArduinoQuack/Root-My-Galaxy-Payloads/main/artifacts/e2q-S926USQU5DZDR/cve-2026-43499-app.so",
+        "url": "https://raw.githubusercontent.com/ArduinoQuack/Root-My-Galaxy-Payloads/main/artifacts/e2q-#######/cve-2026-43499-app.so",
         "size": 104128
       },
       "kernelsu": {
