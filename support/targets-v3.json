@@ -7,7 +7,7 @@
   "models": ["SM-S926U"],
   "kernelVersions": ["6.1.145"],
   "exploit": {
-    "url": "https://raw.githubusercontent.com/ArduinoQuack/Root-My-Galaxy-Payloads/main/artifacts/e2q-S926USQU5DZDR/delta_mx1000_shift_3_reclaim_15_delay_20000/cve-2026-43499-app.delta_mx1000_shift_3_reclaim_15_delay_20000.so",
+    "url": "https://raw.githubusercontent.com/ArduinoQuack/Root-My-Galaxy-Payloads/main/artifacts/delta_mx1000_shift_3_reclaim_15_delay_20000",
     "size": 104128
   },
   "kernelsu": {
