@@ -1,5 +1,7 @@
 {
   "schemaVersion": 3,
+  "payloads": [
+    {
   "payloadId": "e2q-S926USQU5DZDR-control-d1000-s3-r15-d20000",
   "displayName": "Galaxy S24+ US | Control | delta -0x1000 | shift 3 | reclaim 15 | delay 20000",
   "models": ["SM-S926U"],
@@ -13,4 +15,5 @@
     "size": 4780056
   }
 }
+  ]
 }
