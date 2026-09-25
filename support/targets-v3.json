@@ -4,10 +4,10 @@
     {
   "payloadId": "e2q-S926USQU5DZDR-control-d1000-s3-r15-d20000",
   "displayName": "Galaxy S24+ US | Control | delta -0x1000 | shift 3 | reclaim 15 | delay 20000",
-  "models": ["SM-S926U"],
+  "models": ["SM-S926U"], 
   "kernelVersions": ["6.1.145"],
   "exploit": {
-    "url": "https://raw.githubusercontent.com/ArduinoQuack/artifacts/delta_mx1000_shift_3_reclaim_15_delay_20000/cve-2026-43499-app.delta_mx1000_shift_3_reclaim_15_delay_20000.so",
+    "url": "https://raw.githubusercontent.com/ArduinoQuack/artifacts/e2q-S926USQU5DZDR/delta_mx1000_shift_3_reclaim_15_delay_20000/cve-2026-43499-app.delta_mx1000_shift_3_reclaim_15_delay_20000.so",
     "size": 104128
   },
   "kernelsu": {
