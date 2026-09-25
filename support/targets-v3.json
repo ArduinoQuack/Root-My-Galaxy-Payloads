@@ -1,62 +1,75 @@
 {
   "schemaVersion": 3,
   "payloads": [
-   {
-  "payloadId": "e2q-S926USQU5DZDR-d1800-s2-r14",
-  "displayName": "Galaxy S24+ US | delta -0x1800 | shift 2 | reclaim 14",
-  "models": ["SM-S926U"],
-  "kernelVersions": ["6.1.145"],
-  "exploit": {
-    "url": "https://raw.githubusercontent.com/ArduinoQuack/Root-My-Galaxy-Payloads/main/artifacts/e2q-S926USQU5DZDR/delta_mx1800_shift_2_reclaim_14/cve-2026-43499-app.delta_mx1800_shift_2_reclaim_14.so",
-    "size": 104128
-  },
-  "kernelsu": {
-    "url": "https://raw.githubusercontent.com/BuSung-dev/Root-My-Galaxy-Payloads/main/kernelsu/ksud-e2s-S926BXXUEDZDR-kdp",
-    "size": 4780056
-  }
-},
-{
-  "payloadId": "e2q-S926USQU5DZDR-d1800-s2-r15",
-  "displayName": "Galaxy S24+ US | delta -0x1800 | shift 2 | reclaim 15",
-  "models": ["SM-S926U"],
-  "kernelVersions": ["6.1.145"],
-  "exploit": {
-    "url": "https://raw.githubusercontent.com/ArduinoQuack/Root-My-Galaxy-Payloads/main/artifacts/e2q-S926USQU5DZDR/delta_mx1800_shift_2_reclaim_15/cve-2026-43499-app.delta_mx1800_shift_2_reclaim_15.so",
-    "size": 104128
-  },
-  "kernelsu": {
-    "url": "https://raw.githubusercontent.com/BuSung-dev/Root-My-Galaxy-Payloads/main/kernelsu/ksud-e2s-S926BXXUEDZDR-kdp",
-    "size": 4780056
-  }
-},
-{
-  "payloadId": "e2q-S926USQU5DZDR-d1800-s2-r16",
-  "displayName": "Galaxy S24+ US | delta -0x1800 | shift 2 | reclaim 16",
-  "models": ["SM-S926U"],
-  "kernelVersions": ["6.1.145"],
-  "exploit": {
-    "url": "https://raw.githubusercontent.com/ArduinoQuack/Root-My-Galaxy-Payloads/main/artifacts/e2q-S926USQU5DZDR/delta_mx1800_shift_2_reclaim_16/cve-2026-43499-app.delta_mx1800_shift_2_reclaim_16.so",
-    "size": 104128
-  },
-  "kernelsu": {
-    "url": "https://raw.githubusercontent.com/BuSung-dev/Root-My-Galaxy-Payloads/main/kernelsu/ksud-e2s-S926BXXUEDZDR-kdp",
-    "size": 4780056
-  }
-},
-{
-  "payloadId": "e2q-S926USQU5DZDR-d1800-s2-r17",
-  "displayName": "Galaxy S24+ US | delta -0x1800 | shift 2 | reclaim 17",
-  "models": ["SM-S926U"],
-  "kernelVersions": ["6.1.145"],
-  "exploit": {
-    "url": "https://raw.githubusercontent.com/ArduinoQuack/Root-My-Galaxy-Payloads/main/artifacts/e2q-S926USQU5DZDR/delta_mx1800_shift_2_reclaim_17/cve-2026-43499-app.delta_mx1800_shift_2_reclaim_17.so",
-    "size": 104128
-  },
-  "kernelsu": {
-    "url": "https://raw.githubusercontent.com/BuSung-dev/Root-My-Galaxy-Payloads/main/kernelsu/ksud-e2s-S926BXXUEDZDR-kdp",
-    "size": 4780056
-  }
-}
+    {
+      "payloadId": "e2q-S926USQU5DZDR-d1800-s2-r15-d10000",
+      "displayName": "Galaxy S24+ US | delta -0x1800 | shift 2 | reclaim 15 | delay 10000",
+      "models": ["SM-S926U"],
+      "kernelVersions": ["6.1.145"],
+      "exploit": {
+        "url": "https://raw.githubusercontent.com/ArduinoQuack/Root-My-Galaxy-Payloads/main/artifacts/e2q-S926USQU5DZDR/delta_mx1800_shift_2_reclaim_15_delay_10000/cve-2026-43499-app.delta_mx1800_shift_2_reclaim_15_delay_10000.so",
+        "size": 104128
+      },
+      "kernelsu": {
+        "url": "https://raw.githubusercontent.com/BuSung-dev/Root-My-Galaxy-Payloads/main/kernelsu/ksud-e2s-S926BXXUEDZDR-kdp",
+        "size": 4780056
+      }
+    },
+    {
+      "payloadId": "e2q-S926USQU5DZDR-d1800-s2-r15-d15000",
+      "displayName": "Galaxy S24+ US | delta -0x1800 | shift 2 | reclaim 15 | delay 15000",
+      "models": ["SM-S926U"],
+      "kernelVersions": ["6.1.145"],
+      "exploit": {
+        "url": "https://raw.githubusercontent.com/ArduinoQuack/Root-My-Galaxy-Payloads/main/artifacts/e2q-S926USQU5DZDR/delta_mx1800_shift_2_reclaim_15_delay_15000/cve-2026-43499-app.delta_mx1800_shift_2_reclaim_15_delay_15000.so",
+        "size": 104128
+      },
+      "kernelsu": {
+        "url": "https://raw.githubusercontent.com/BuSung-dev/Root-My-Galaxy-Payloads/main/kernelsu/ksud-e2s-S926BXXUEDZDR-kdp",
+        "size": 4780056
+      }
+    },
+    {
+      "payloadId": "e2q-S926USQU5DZDR-d1800-s2-r15-d20000",
+      "displayName": "Galaxy S24+ US | delta -0x1800 | shift 2 | reclaim 15 | delay 20000",
+      "models": ["SM-S926U"],
+      "kernelVersions": ["6.1.145"],
+      "exploit": {
+        "url": "https://raw.githubusercontent.com/ArduinoQuack/Root-My-Galaxy-Payloads/main/artifacts/e2q-S926USQU5DZDR/delta_mx1800_shift_2_reclaim_15_delay_20000/cve-2026-43499-app.delta_mx1800_shift_2_reclaim_15_delay_20000.so",
+        "size": 104128
+      },
+      "kernelsu": {
+        "url": "https://raw.githubusercontent.com/BuSung-dev/Root-My-Galaxy-Payloads/main/kernelsu/ksud-e2s-S926BXXUEDZDR-kdp",
+        "size": 4780056
+      }
+    },
+    {
+      "payloadId": "e2q-S926USQU5DZDR-d1800-s2-r15-d25000",
+      "displayName": "Galaxy S24+ US | delta -0x1800 | shift 2 | reclaim 15 | delay 25000",
+      "models": ["SM-S926U"],
+      "kernelVersions": ["6.1.145"],
+      "exploit": {
+        "url": "https://raw.githubusercontent.com/ArduinoQuack/Root-My-Galaxy-Payloads/main/artifacts/e2q-S926USQU5DZDR/delta_mx1800_shift_2_reclaim_15_delay_25000/cve-2026-43499-app.delta_mx1800_shift_2_reclaim_15_delay_25000.so",
+        "size": 104128
+      },
+      "kernelsu": {
+        "url": "https://raw.githubusercontent.com/BuSung-dev/Root-My-Galaxy-Payloads/main/kernelsu/ksud-e2s-S926BXXUEDZDR-kdp",
+        "size": 4780056
+      }
+    },
+    {
+      "payloadId": "e2q-S926USQU5DZDR-d1800-s2-r15-d30000",
+      "displayName": "Galaxy S24+ US | delta -0x1800 | shift 2 | reclaim 15 | delay 30000",
+      "models": ["SM-S926U"],
+      "kernelVersions": ["6.1.145"],
+      "exploit": {
+        "url": "https://raw.githubusercontent.com/ArduinoQuack/Root-My-Galaxy-Payloads/main/artifacts/e2q-S926USQU5DZDR/delta_mx1800_shift_2_reclaim_15_delay_30000/cve-2026-43499-app.delta_mx1800_shift_2_reclaim_15_delay_30000.so",
+        "size": 104128
+      },
+      "kernelsu": {
+        "url": "https://raw.githubusercontent.com/BuSung-dev/Root-My-Galaxy-Payloads/main/kernelsu/ksud-e2s-S926BXXUEDZDR-kdp",
+        "size": 4780056
+      }
+    }
   ]
 }
-
