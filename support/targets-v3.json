@@ -1,3 +1,4 @@
+I added the exact same kernelsu object to every payload and changed nothing else.
 {
   "schemaVersion": 3,
   "payloads": [
@@ -9,6 +10,10 @@
       "exploit": {
         "url": "https://raw.githubusercontent.com/ArduinoQuack/Root-My-Galaxy-Payloads/main/artifacts/e2q-S926USQU5DZDR/delta_mx800_shift_2/cve-2026-43499-app.delta_mx800_shift_2.so",
         "size": 104128
+      },
+      "kernelsu": {
+        "url": "https://raw.githubusercontent.com/BuSung-dev/Root-My-Galaxy-Payloads/main/kernelsu/ksud-e2s-S926BXXUEDZDR-kdp",
+        "size": 4780056
       }
     },
     {
@@ -19,6 +24,10 @@
       "exploit": {
         "url": "https://raw.githubusercontent.com/ArduinoQuack/Root-My-Galaxy-Payloads/main/artifacts/e2q-S926USQU5DZDR/delta_mx800_shift_3/cve-2026-43499-app.delta_mx800_shift_3.so",
         "size": 104128
+      },
+      "kernelsu": {
+        "url": "https://raw.githubusercontent.com/BuSung-dev/Root-My-Galaxy-Payloads/main/kernelsu/ksud-e2s-S926BXXUEDZDR-kdp",
+        "size": 4780056
       }
     },
     {
@@ -29,6 +38,10 @@
       "exploit": {
         "url": "https://raw.githubusercontent.com/ArduinoQuack/Root-My-Galaxy-Payloads/main/artifacts/e2q-S926USQU5DZDR/delta_mx800_shift_4/cve-2026-43499-app.delta_mx800_shift_4.so",
         "size": 104128
+      },
+      "kernelsu": {
+        "url": "https://raw.githubusercontent.com/BuSung-dev/Root-My-Galaxy-Payloads/main/kernelsu/ksud-e2s-S926BXXUEDZDR-kdp",
+        "size": 4780056
       }
     },
     {
@@ -39,6 +52,10 @@
       "exploit": {
         "url": "https://raw.githubusercontent.com/ArduinoQuack/Root-My-Galaxy-Payloads/main/artifacts/e2q-S926USQU5DZDR/delta_mx1000_shift_2/cve-2026-43499-app.delta_mx1000_shift_2.so",
         "size": 104128
+      },
+      "kernelsu": {
+        "url": "https://raw.githubusercontent.com/BuSung-dev/Root-My-Galaxy-Payloads/main/kernelsu/ksud-e2s-S926BXXUEDZDR-kdp",
+        "size": 4780056
       }
     },
     {
@@ -49,6 +66,10 @@
       "exploit": {
         "url": "https://raw.githubusercontent.com/ArduinoQuack/Root-My-Galaxy-Payloads/main/artifacts/e2q-S926USQU5DZDR/delta_mx1000_shift_3/cve-2026-43499-app.delta_mx1000_shift_3.so",
         "size": 104128
+      },
+      "kernelsu": {
+        "url": "https://raw.githubusercontent.com/BuSung-dev/Root-My-Galaxy-Payloads/main/kernelsu/ksud-e2s-S926BXXUEDZDR-kdp",
+        "size": 4780056
       }
     },
     {
@@ -59,6 +80,10 @@
       "exploit": {
         "url": "https://raw.githubusercontent.com/ArduinoQuack/Root-My-Galaxy-Payloads/main/artifacts/e2q-S926USQU5DZDR/delta_mx1000_shift_4/cve-2026-43499-app.delta_mx1000_shift_4.so",
         "size": 104128
+      },
+      "kernelsu": {
+        "url": "https://raw.githubusercontent.com/BuSung-dev/Root-My-Galaxy-Payloads/main/kernelsu/ksud-e2s-S926BXXUEDZDR-kdp",
+        "size": 4780056
       }
     },
     {
@@ -69,6 +94,10 @@
       "exploit": {
         "url": "https://raw.githubusercontent.com/ArduinoQuack/Root-My-Galaxy-Payloads/main/artifacts/e2q-S926USQU5DZDR/delta_mx1800_shift_2/cve-2026-43499-app.delta_mx1800_shift_2.so",
         "size": 104128
+      },
+      "kernelsu": {
+        "url": "https://raw.githubusercontent.com/BuSung-dev/Root-My-Galaxy-Payloads/main/kernelsu/ksud-e2s-S926BXXUEDZDR-kdp",
+        "size": 4780056
       }
     },
     {
@@ -79,6 +108,10 @@
       "exploit": {
         "url": "https://raw.githubusercontent.com/ArduinoQuack/Root-My-Galaxy-Payloads/main/artifacts/e2q-S926USQU5DZDR/delta_mx1800_shift_3/cve-2026-43499-app.delta_mx1800_shift_3.so",
         "size": 104128
+      },
+      "kernelsu": {
+        "url": "https://raw.githubusercontent.com/BuSung-dev/Root-My-Galaxy-Payloads/main/kernelsu/ksud-e2s-S926BXXUEDZDR-kdp",
+        "size": 4780056
       }
     },
     {
@@ -89,6 +122,10 @@
       "exploit": {
         "url": "https://raw.githubusercontent.com/ArduinoQuack/Root-My-Galaxy-Payloads/main/artifacts/e2q-S926USQU5DZDR/delta_mx1800_shift_4/cve-2026-43499-app.delta_mx1800_shift_4.so",
         "size": 104128
+      },
+      "kernelsu": {
+        "url": "https://raw.githubusercontent.com/BuSung-dev/Root-My-Galaxy-Payloads/main/kernelsu/ksud-e2s-S926BXXUEDZDR-kdp",
+        "size": 4780056
       }
     },
     {
@@ -99,6 +136,10 @@
       "exploit": {
         "url": "https://raw.githubusercontent.com/ArduinoQuack/Root-My-Galaxy-Payloads/main/artifacts/e2q-S926USQU5DZDR/delta_mx2000_shift_2/cve-2026-43499-app.delta_mx2000_shift_2.so",
         "size": 104128
+      },
+      "kernelsu": {
+        "url": "https://raw.githubusercontent.com/BuSung-dev/Root-My-Galaxy-Payloads/main/kernelsu/ksud-e2s-S926BXXUEDZDR-kdp",
+        "size": 4780056
       }
     },
     {
@@ -109,6 +150,10 @@
       "exploit": {
         "url": "https://raw.githubusercontent.com/ArduinoQuack/Root-My-Galaxy-Payloads/main/artifacts/e2q-S926USQU5DZDR/delta_mx2000_shift_3/cve-2026-43499-app.delta_mx2000_shift_3.so",
         "size": 104128
+      },
+      "kernelsu": {
+        "url": "https://raw.githubusercontent.com/BuSung-dev/Root-My-Galaxy-Payloads/main/kernelsu/ksud-e2s-S926BXXUEDZDR-kdp",
+        "size": 4780056
       }
     },
     {
@@ -119,7 +164,12 @@
       "exploit": {
         "url": "https://raw.githubusercontent.com/ArduinoQuack/Root-My-Galaxy-Payloads/main/artifacts/e2q-S926USQU5DZDR/delta_mx2000_shift_4/cve-2026-43499-app.delta_mx2000_shift_4.so",
         "size": 104128
+      },
+      "kernelsu": {
+        "url": "https://raw.githubusercontent.com/BuSung-dev/Root-My-Galaxy-Payloads/main/kernelsu/ksud-e2s-S926BXXUEDZDR-kdp",
+        "size": 4780056
       }
     }
   ]
 }
+
